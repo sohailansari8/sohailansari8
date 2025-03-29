@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi there! 👋  <br>I'm Sohail Ansari an MCA student at Amity University Mumbai, passionate about **Web Development , and Data Structures & Algorithms**.  <br><br>🚀 Currently working on **MERN stack projects**  <br>📚 Learning **React.js, Python (Django & Kivy), and DSA in Java**  <br>💡 Exploring **Cybersecurity and DevOps (Jenkins)**  <br>🏋️‍♂️ Fitness enthusiast, working on strength & endurance  <br><br>Let's connect and build something amazing!  
 
 
